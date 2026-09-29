@@ -6,7 +6,7 @@ Student Name -- Arunesh Kumar Pandit
 <br>
 Branch/Section -- CSE 16
 <br>
-Subject -- FSD Workshop-I | 25VA351
+Subject -- Data Visualization using Python | 25VA301
 <br>
-Proffesor Name -- Mr. Chandrahas Mishra 
+Proffesor Name -- Dr. Disha Mohini Pathak (DMP) 
 </h4>
